@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "strict": true,
+    "watch": true,
+    "lib": [
+      "dom", "ES2015"
+    ]
+  }
+}
